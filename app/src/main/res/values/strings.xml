@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment App</string>
+    <string name="wage_calculator_image">wage calculator image</string>
+    <string name="wage_calculator">Wage Calculator</string>
+    <string name="hourly_rate">Hourly Rate:</string>
+    <string name="_25_00">25.00</string>
+    <string name="regular_hours">Regular Hours:</string>
+    <string name="_8">8</string>
+    <string name="overtime_hours">Overtime Hours:</string>
+    <string name="_2">2</string>
+    <string name="triangle_image">triangle image</string>
+    <string name="triangle_checker">Triangle Checker</string>
+    <string name="first_side_length">First side length:</string>
+    <string name="second_side_length">Second side length:</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="third_side_length">Third side length:</string>
+    <string name="type_of_triangle">Type of triangle</string>
+    <string name="check">Check</string>
+</resources>
